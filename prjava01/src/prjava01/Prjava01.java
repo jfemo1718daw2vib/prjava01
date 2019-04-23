@@ -6,7 +6,7 @@ package prjava01;
 
 /**
  *
- * @author XYZ1718daw2vib (a on XYZ és el teu nom d'usuari Github)
+ * @author jfemo1718daw2vib
  */
 import java.io.*;
 
